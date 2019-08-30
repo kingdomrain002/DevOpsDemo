@@ -1,2 +1,1 @@
-# package
-base on Jenkins package demo
+iOS-package
